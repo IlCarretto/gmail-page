@@ -90,6 +90,19 @@ main{
     padding: 2rem;
 }
 
+div.emails {
+    display: inline-block;
+}
+
+.title{
+    width: 50%;
+}
+
+.content{
+    width: 50%;
+}
+
+
 /* FOOTER */
 footer p{
     text-align: center;
