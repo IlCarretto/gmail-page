@@ -90,16 +90,19 @@ main{
     padding: 2rem;
 }
 
-div.emails {
+input {
     display: inline-block;
 }
 
 .title{
-    width: 50%;
+    display: inline-block;
+    width: 48%;
 }
 
 .content{
-    width: 50%;
+    color: #8d8987;
+    display: inline-block;
+    width: 48%;
 }
 
 
